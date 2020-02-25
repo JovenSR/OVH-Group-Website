@@ -1,1 +1,1 @@
-![OVH Group Homepage](./ovh.jpg)
+![OVH Group Homepage](/ovh.jpg?raw=true)
